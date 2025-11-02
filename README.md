@@ -4,6 +4,14 @@
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KK-mp4&layout=compact&show_icons=true&theme=github_light&hide_border=true&disable_animations=true?count_private=true&langs_count=16&bg_color=00000000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 ### Extra pins:
 *better projects in the actual pins down below*  
+<!-- witch-temple-finder -->
+<a href="https://github.com/KK-mp4/witch-temple-finder">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=KK-mp4&repo=witch-temple-finder&theme=github_dark&hide_border=true&disable_animations=true&bg_color=00000000" />
+    <img alt="witch-temple-finder" src="https://github-readme-stats.vercel.app/api/pin/?username=KK-mp4&repo=witch-temple-finder&theme=github_light&hide_border=true&disable_animations=true&bg_color=00000000" />
+  </picture>
+</a>
 <!-- Beta-Kobra-Fixer -->
 <a href="https://github.com/KK-mp4/Beta-Kobra-Fixer">
   <picture>
